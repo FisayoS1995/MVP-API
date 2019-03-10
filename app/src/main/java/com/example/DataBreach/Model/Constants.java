@@ -1,6 +1,6 @@
 package com.example.haveibeenpawned.Model;
 
 public class Constants {
-    public final static String BASE_URL = "https://haveibeenpwned.com";
-    public final static String END_POINT = "api/v2/breaches";
+    public static final String BASE_URL = "https://haveibeenpwned.com";
+    public static final String END_POINT = "api/v2/breaches";
 }
